@@ -6,8 +6,8 @@
 
 "Intern ID":CT06DL1349
 
-"Domain":Data science 
+"Domain":Data Science 
 
 "Duration":6 weeks 
 
-"Mentor":Neela santhosh 
+"Mentor":Neela Santhosh 
